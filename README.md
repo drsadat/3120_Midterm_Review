@@ -1,7 +1,7 @@
 # 3120 Midterm Review
 
 ## Numpy Topics To Focus On:
-* (https://www.w3schools.com/python/numpy/default.asp)
+* Review the following topics from [Numpy Tutorial Site](https://www.w3schools.com/python/numpy/default.asp)
 
 ### Basic:
   * [NumPy Introduction](https://www.w3schools.com/python/numpy/numpy_intro.asp)
