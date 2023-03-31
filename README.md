@@ -33,7 +33,6 @@
 
 ### Basic
   * [Pandas Introduction](https://www.w3schools.com/python/pandas/pandas_intro.asp)
-    [ClassNotebook](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.0%20Pandas%201%20-%20Series.ipynb)
   * [Pandas Getting Started](https://www.w3schools.com/python/pandas/pandas_getting_started.asp)
   * [Pandas Series](https://www.w3schools.com/python/pandas/pandas_series.asp)
   * [Pandas DataFrames](https://www.w3schools.com/python/pandas/pandas_series.asp)
@@ -45,4 +44,13 @@
   * [Pandas - Fixing Wrong Data](https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp)
   * [Pandas - Removing Duplicates](https://www.w3schools.com/python/pandas/pandas_cleaning_duplicates.asp)
 
+
+#### Class Notebooks To Review:
+ * [Intro](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.0%20Pandas%201%20-%20Series.ipynb)
+ * [Datafames](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.1%20Pandas%202%20-%20DataFrames%20Intro.ipynb)
+ * [Data Cleaning](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.2%20Pandas%203%20-%20Data%20Cleaning.ipynb)
+
+
 ### Grouping and Aggregation:
+ * [Data Aggregation](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.3%20Pandas%204%20-%20Data%20Aggregation.ipynb)
+ * [Concatenation, Merging, Joining](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.5%20Pandas%206%20-%20Concatenating%2C%20Merging%20and%20Joining%20.ipynb)
