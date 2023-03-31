@@ -33,6 +33,7 @@
 
 ### Basic
   * [Pandas Introduction](https://www.w3schools.com/python/pandas/pandas_intro.asp)
+    [ClassNotebook](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.0%20Pandas%201%20-%20Series.ipynb)
   * [Pandas Getting Started](https://www.w3schools.com/python/pandas/pandas_getting_started.asp)
   * [Pandas Series](https://www.w3schools.com/python/pandas/pandas_series.asp)
   * [Pandas DataFrames](https://www.w3schools.com/python/pandas/pandas_series.asp)
