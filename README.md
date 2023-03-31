@@ -40,7 +40,8 @@ First review the following topics from the [Pandas Tutorial Site](https://www.w3
   * [Pandas - Analyzing DataFrames](https://www.w3schools.com/python/pandas/pandas_analyzing.asp)
 
 ### Cleaning Data:
-  * [Pandas - Cleaning Empty Cells](https://www.w3schools.com/python/pandas/pandas_cleaning.asp)
+  * [Pandas - Cleaning Data](https://www.w3schools.com/python/pandas/pandas_cleaning.asp)
+  * [Pandas - Cleaning Empty Cells](https://www.w3schools.com/python/pandas/pandas_cleaning_empty_cells.asp)
   * [Pandas - Fixing Wrong Data](https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp)
   * [Pandas - Removing Duplicates](https://www.w3schools.com/python/pandas/pandas_cleaning_duplicates.asp)
 
