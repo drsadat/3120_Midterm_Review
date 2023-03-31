@@ -18,7 +18,7 @@
 ### Random
   * [Random Intro](https://www.w3schools.com/python/numpy/numpy_random.asp)
 
-### Ufuncs (Stands for Univdersal Functions)
+### Ufuncs (Stands for Universal Functions)
   * [NumPy ufuncs](https://www.w3schools.com/python/numpy/numpy_ufunc.asp)
   * [Simple Arithmetic](https://www.w3schools.com/python/numpy/numpy_ufunc_simple_arithmetic.asp)
   * [Rounding Decimals](https://www.w3schools.com/python/numpy/numpy_ufunc_rounding_decimals.asp)
