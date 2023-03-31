@@ -46,7 +46,7 @@ First review the following topics from the [Pandas Tutorial Site](https://www.w3
   * [Pandas - Removing Duplicates](https://www.w3schools.com/python/pandas/pandas_cleaning_duplicates.asp)
 
 
-Then, also review the classroom notebooks we have discussed:
+Then, second, also review the classroom notebooks we have discussed:
 
 ### Class Notebooks To Review (Overlaps with topics/concepts above):
  * [Intro](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.0%20Pandas%201%20-%20Series.ipynb)
@@ -54,6 +54,6 @@ Then, also review the classroom notebooks we have discussed:
  * [Data Cleaning](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.2%20Pandas%203%20-%20Data%20Cleaning.ipynb)
 
 
-### Grouping and Aggregation:
+### Grouping and Aggregation (The Pandas Tutorial has no sections on these two):
  * [Data Aggregation](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.3%20Pandas%204%20-%20Data%20Aggregation.ipynb)
  * [Concatenation, Merging, Joining](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.5%20Pandas%206%20-%20Concatenating%2C%20Merging%20and%20Joining%20.ipynb)
