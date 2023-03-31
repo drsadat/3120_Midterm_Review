@@ -29,7 +29,7 @@
 
 
 ## Pandas Topics To Focus On:
-(https://www.w3schools.com/python/pandas/default.asp)
+First review the following topics from the [Pandas Tutorial Site](https://www.w3schools.com/python/pandas/default.asp)
 
 ### Basic
   * [Pandas Introduction](https://www.w3schools.com/python/pandas/pandas_intro.asp)
@@ -45,7 +45,9 @@
   * [Pandas - Removing Duplicates](https://www.w3schools.com/python/pandas/pandas_cleaning_duplicates.asp)
 
 
-#### Class Notebooks To Review:
+Then, also review the classroom notebooks we have discussed:
+
+### Class Notebooks To Review (Overlaps with topics/concepts above):
  * [Intro](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.0%20Pandas%201%20-%20Series.ipynb)
  * [Datafames](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.1%20Pandas%202%20-%20DataFrames%20Intro.ipynb)
  * [Data Cleaning](https://github.com/PacktPublishing/Data-Science-Analytics-AI-for-Business-the-Real-World-/blob/main/All%20Resource%20files/4.2%20Pandas%203%20-%20Data%20Cleaning.ipynb)
