@@ -4,8 +4,8 @@
 * (https://www.w3schools.com/python/numpy/default.asp)
 
 ### Basic:
-*[NumPy Introduction](https://www.w3schools.com/python/numpy/numpy_intro.asp)
-*[NumPy Getting Started](https://www.w3schools.com/python/numpy/numpy_getting_started.asp)
+  * [NumPy Introduction](https://www.w3schools.com/python/numpy/numpy_intro.asp)
+  * [NumPy Getting Started](https://www.w3schools.com/python/numpy/numpy_getting_started.asp)
 *[NumPy Creating Arrays]()
 *[NumPy Array Indexing (up to 2D is fine)]()
 *[NumPy Array Slicing]()
