@@ -4,7 +4,7 @@
 (https://www.w3schools.com/python/numpy/default.asp)
 
 ### Basic:
-NumPy Introduction
+[NumPy Introduction|https://www.w3schools.com/python/numpy/numpy_intro.asp]
 NumPy Getting Started
 NumPy Creating Arrays
 NumPy Array Indexing (up to 2D is fine)
